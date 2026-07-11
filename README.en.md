@@ -6,11 +6,11 @@
 
 **Turn Markdown into polished HTML you can paste straight into the WeChat editor**
 
-6 curated themes + theme generator · code blocks / images / GIFs · auto section numbers & keyword marks · two-gate quality checks
+7 curated themes + theme generator · code blocks / images / GIFs · auto section numbers & keyword marks · two-gate quality checks
 
 [![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL--3.0-blue.svg)](LICENSE)
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blue)](https://claude.ai/code)
-[![Themes](https://img.shields.io/badge/themes-6%20+%20generator-059669)](references/theme-index.md)
+[![Themes](https://img.shields.io/badge/themes-7%20+%20generator-2563EB)](references/theme-index.md)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![Agents](https://img.shields.io/badge/Claude%20Code%20·%20Codex%20·%20Cursor-supported-8b5cf6.svg)](#-quick-start)
 
@@ -24,7 +24,7 @@ A layout Skill for AI agents (Claude Code / Codex / Cursor …). You write Markd
 
 ## ✨ Features
 
-- **6 curated themes**: Moyu Green (default) · Red & White · Graphite Minimal · Zen Whitespace · Moyu Ticket · Olive Journal — each a self-contained thick component library (design tokens + dozens of components + visual-hierarchy table + article-type recipe table).
+- **7 curated themes**: Moyu Green (default) · Cobalt Signal · Red & White · Graphite Minimal · Zen Whitespace · Moyu Ticket · Olive Journal — each a self-contained thick component library (design tokens + dozens of components + visual-hierarchy table + article-type recipe table).
 - **Theme generator**: none fit? Describe a style in one line or drop a reference image, and generate a fresh component library saved for reuse (see `references/theme-generator.md`).
 - **Full content support**: code blocks (dark/light, monospace), images, GIFs (with an animated badge), inline code, quotes, lists, product badges.
 - **Smart layout**: auto section numbering (last chapter ∞ / ///), 1–3 keyword underlines per paragraph, intro card & TOC distilled from the body, de-duplicated signature.
@@ -52,9 +52,9 @@ A layout Skill for AI agents (Claude Code / Codex / Cursor …). You write Markd
 | Word / PDF draft → WeChat | auto-normalize format → then pick a theme by topic |
 | A style beyond the built-ins | Theme generator: make one from a line or an image |
 
-## 🎨 6 Curated Themes
+## 🎨 7 Curated Themes
 
-One long-form article laid out in all 6 themes (full-fidelity screenshots with real images):
+Six themes include full-fidelity screenshots with real images; Cobalt Signal is available in the interactive HTML gallery:
 
 <table>
 <tr>
@@ -69,13 +69,14 @@ One long-form article laid out in all 6 themes (full-fidelity screenshots with r
 </tr>
 </table>
 
-> 📚 **All 6 themes → [docs/all-themes.md](docs/all-themes.md)**　|　or open `docs/gallery/index.html` for the interactive full HTML.
+> 📚 **Six long screenshots → [docs/all-themes.md](docs/all-themes.md)**　|　or open `docs/gallery/index.html` for all 7 interactive themes.
 
 ### Theme cheat-sheet
 
 | | Theme | Best for |
 |---|---|---|
 | ![](https://placehold.co/12/059669/059669.png) `#059669` | Moyu Green (default) | Tutorials, reviews, checklists, tool roundups |
+| ![](https://placehold.co/12/2563EB/2563EB.png) `#2563EB` | Cobalt Signal | AI, technology, productivity tools, Agent practice, personal methods |
 | ![](https://placehold.co/12/DC2626/DC2626.png) `#DC2626` | Red & White | Deep analysis, opinions, strong takes |
 | ![](https://placehold.co/12/52525B/52525B.png) `#52525B` | Graphite Minimal | Design, tech commentary, premium brand |
 | ![](https://placehold.co/12/4A5D52/4A5D52.png) `#4A5D52` | Zen Whitespace | Zen, minimal living, reflective essays |

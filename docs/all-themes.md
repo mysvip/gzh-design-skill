@@ -1,8 +1,8 @@
-# 全部 6 套主题效果预览 · All 6 Themes
+# 主题效果预览 · Theme Previews
 
-同一篇长文（《做了些爆款 Skills 以后，我对 Skills 的看法》），用 6 套精选主题各排一遍的真实长图（含配图、引言卡、编号章节、金句、名词旁注等完整组件）。
+同一篇长文（《做了些爆款 Skills 以后，我对 Skills 的看法》）的 6 套真实长图；新增的钴蓝信号请在 [交互式 Gallery](gallery/index.html) 查看完整 HTML。
 
-> The same long-form article laid out in all 6 curated themes. Back to [README](../README.md).
+> Six themes include long screenshots. View Cobalt Signal in the [interactive Gallery](gallery/index.html). Back to [README](../README.md).
 
 <table>
 <tr>
